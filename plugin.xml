@@ -2,6 +2,9 @@
   <extension-point id="xsl.transtype-rss"/>
   <extension-point id="dita.rss.map"/>
   
+  <feature extension="package.support.name" value="Eliot Kimber"/>
+  <feature extension="package.support.email" value="ekimber@contrext.com"/>  
+  
   <require plugin="org.dita4publishers.common.mapdriven"/> 
   <require plugin="org.dita4publishers.common.xslt"/> 
   <require plugin="org.dita-community.common.xslt"/> 
