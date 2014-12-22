@@ -164,7 +164,6 @@
       
       + CSS             = "<xsl:sequence select="$CSS"/>"
       + CSSPATH         = "<xsl:sequence select="$CSSPATH"/>"
-      + DITAEXT         = "<xsl:sequence select="$DITAEXT"/>"
       + FILEDIR         = "<xsl:sequence select="$FILEDIR"/>"
       + KEYREF-FILE     = "<xsl:sequence select="$KEYREF-FILE"/>"
       + OUTPUTDIR       = "<xsl:sequence select="$OUTPUTDIR"/>"
