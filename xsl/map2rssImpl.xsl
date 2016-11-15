@@ -166,7 +166,6 @@
       + CSS             = "<xsl:sequence select="$CSS"/>"
       + CSSPATH         = "<xsl:sequence select="$CSSPATH"/>"
       + FILEDIR         = "<xsl:sequence select="$FILEDIR"/>"
-      + KEYREF-FILE     = "<xsl:sequence select="$KEYREF-FILE"/>"
       + OUTPUTDIR       = "<xsl:sequence select="$OUTPUTDIR"/>"
       + PATH2PROJ       = "<xsl:sequence select="$PATH2PROJ"/>"
       + WORKDIR         = "<xsl:sequence select="$WORKDIR"/>"
