@@ -8,7 +8,7 @@
   xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   exclude-result-prefixes="df xs relpath htmlutil xd dc"
-  version="2.0">
+  version="3.0">
   <!-- =============================================================
 
     DITA Map to HTML5 Transformation
@@ -112,7 +112,7 @@
   <!-- generate RSS version 2.0 -->
   <!-- @see http://www.rssboard.org/rss-specification -->
   <xsl:template match="*" mode="generate-rss">
-    <rss version="2.0">
+    <rss version="3.0">
       
       <channel>
       	<!-- required elements -->
